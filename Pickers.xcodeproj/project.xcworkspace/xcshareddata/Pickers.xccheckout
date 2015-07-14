@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1F9B838A-AAC5-4558-9DE6-8C2BDD2B3B23</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>519962ABD631925CBB43EFC89CD19F28B3D06B7E</key>
+		<string>https://github.com/ronaldporch/viewSwitch.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Pickers/Pickers.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>519962ABD631925CBB43EFC89CD19F28B3D06B7E</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ronaldporch/viewSwitch.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>519962ABD631925CBB43EFC89CD19F28B3D06B7E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>519962ABD631925CBB43EFC89CD19F28B3D06B7E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>untitled%20folder</string>
+		</dict>
+	</array>
+</dict>
+</plist>
